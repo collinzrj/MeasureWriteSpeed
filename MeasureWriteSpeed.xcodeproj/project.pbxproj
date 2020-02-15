@@ -15,6 +15,7 @@
 		F0CD0E8723F8939E00BDE31E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0CD0E8523F8939E00BDE31E /* LaunchScreen.storyboard */; };
 		F0CD0E9223F8939E00BDE31E /* MeasureWriteSpeedTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CD0E9123F8939E00BDE31E /* MeasureWriteSpeedTests.swift */; };
 		F0CD0E9D23F8939E00BDE31E /* MeasureWriteSpeedUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CD0E9C23F8939E00BDE31E /* MeasureWriteSpeedUITests.swift */; };
+		F0CD0EAB23F894E700BDE31E /* testspeed.text in Resources */ = {isa = PBXBuildFile; fileRef = F0CD0EAA23F894E700BDE31E /* testspeed.text */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F0CD0E9823F8939E00BDE31E /* MeasureWriteSpeedUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeasureWriteSpeedUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0CD0E9C23F8939E00BDE31E /* MeasureWriteSpeedUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeasureWriteSpeedUITests.swift; sourceTree = "<group>"; };
 		F0CD0E9E23F8939E00BDE31E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0CD0EAA23F894E700BDE31E /* testspeed.text */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = testspeed.text; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				F0CD0E8023F8939D00BDE31E /* Main.storyboard */,
 				F0CD0E8323F8939E00BDE31E /* Assets.xcassets */,
 				F0CD0E8523F8939E00BDE31E /* LaunchScreen.storyboard */,
+				F0CD0EAA23F894E700BDE31E /* testspeed.text */,
 				F0CD0E8823F8939E00BDE31E /* Info.plist */,
 			);
 			path = MeasureWriteSpeed;
@@ -235,6 +238,7 @@
 				F0CD0E8723F8939E00BDE31E /* LaunchScreen.storyboard in Resources */,
 				F0CD0E8423F8939E00BDE31E /* Assets.xcassets in Resources */,
 				F0CD0E8223F8939D00BDE31E /* Main.storyboard in Resources */,
+				F0CD0EAB23F894E700BDE31E /* testspeed.text in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
